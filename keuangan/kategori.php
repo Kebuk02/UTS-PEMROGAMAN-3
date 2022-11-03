@@ -1,9 +1,9 @@
 <html>
 	<head>
-		<title>CRUD - SEDERHANA</title>
+		<title>TOKO NABIL</title>
 	</head>
 	<body>
-		<h2>MODULE KATEGORI</h2>
+		<h2>KATEGORI MODULES</h2>
 		<br/>
 		<a href="tambah_kategori.php">+ TAMBAH KATEGORI</a>
 		<br/>
